@@ -27,7 +27,7 @@ A platform that imports and organizes UFABC academic data, manages curriculum in
 
 A small browser application built while studying frontend fundamentals and code organization.
 
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `FastAPI`
 
 ### [n8n Google Sheets Data Cleanup](https://github.com/RodrigoWitkowski/n8n-google-sheets-data-cleanup)
 
