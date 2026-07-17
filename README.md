@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Rodrigo.
 
-<!--
-**RodrigoWitkowski/RodrigoWitkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **UFABC**. 
 
-Here are some ideas to get you started:
+  <img width="197" height="197" alt="image" src="https://github.com/user-attachments/assets/5dc044d9-4f6e-43a3-b8ab-3e2f2ec51f3e" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What I'm working on
+
+<!-- CURRENT_PROJECT:START -->
+
+Currently building [Gradient](https://github.com/RodrigoWitkowski/UFABC-Gradient), a platform for exploring UFABC course offerings, academic data, and class recommendations.
+
+<!-- CURRENT_PROJECT:END -->
+
+## Projects
+
+### [Gradient](https://github.com/RodrigoWitkowski/UFABC-Gradient)
+
+A platform that imports and organizes UFABC academic data, manages curriculum information, and generates explainable class rankings.
+
+`Python` `FastAPI` `PostgreSQL` `Docker`
+
+### [To-Do App](https://github.com/RodrigoWitkowski/To-Do-App)
+
+A small browser application built while studying frontend fundamentals and code organization.
+
+`HTML` `CSS` `JavaScript`
+
+### [n8n Google Sheets Data Cleanup](https://github.com/RodrigoWitkowski/n8n-google-sheets-data-cleanup)
+
+A simple ETL workflow that validates, normalizes, deduplicates, and organizes records from Google Sheets.
+
+`n8n` `Google Sheets` `ETL`
+
+### [n8n GitHub Integration](https://github.com/RodrigoWitkowski/n8n-github-integration)
+
+An automation experiment that reads and updates GitHub files through scheduled n8n workflows.
+
+`n8n` `GitHub API` `Automation`
+
+## Tools and technologies
+
+`Python` · `FastAPI` · `PostgreSQL` · `JavaScript` · `HTML` · `CSS` · `Docker` · `Git` · `n8n`
+
