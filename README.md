@@ -11,6 +11,8 @@ I'm a Computer Science student at **UFABC**.
 
 Currently building [Gradient](https://github.com/RodrigoWitkowski/UFABC-Gradient), a platform for exploring UFABC course offerings, academic data, and class recommendations.
 
+Also building a simple FastAPI for a To Do App I've build for learning purposes: [To-Do-App](https://github.com/RodrigoWitkowski/To-Do-App)
+
 <!-- CURRENT_PROJECT:END -->
 
 ## Projects
