@@ -49,4 +49,4 @@ An automation experiment that reads and updates GitHub files through scheduled n
 <!--CAT GIF START-->
 ![Daily cat](https://cataas.com/cat/Gtr1p9H06A6O9HYU?position=center)
 <!--CAT GIF END-->
-[this GIF is Updated with another random cat GIF when someone comments this [issue](https://github.com/RodrigoWitkowski/RodrigoWitkowski/issues/1)]
+[this GIF is Updated with another random cat GIF every day, see how this works [Here](https://github.com/RodrigoWitkowski/n8n-github-integration)]
