@@ -45,5 +45,8 @@ An automation experiment that reads and updates GitHub files through scheduled n
 
 `Python` · `FastAPI` · `PostgreSQL` · `JavaScript` · `HTML` · `CSS` · `Docker` · `Git` · `n8n`
 
+
+<!--CAT GIF START-->
 ![alt text](https://cataas.com/cat/9WFz0kCbRxtVQQOn?position=center)
-[this GIF is Updated when someone creates an issue comment]
+<!--CAT GIF END-->
+[this GIF is Updated with another random cat GIF when someone comments this [issue](https://github.com/RodrigoWitkowski/RodrigoWitkowski/issues/1)]
