@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo.
 
-I'm a Computer Science student at Universidade Federal do ABC **UFABC**. 
+I'm a Computer Science student at Universidade Federal do ABC -- **UFABC**. 
 
   <img width="197" height="197" alt="image" src="https://github.com/user-attachments/assets/5dc044d9-4f6e-43a3-b8ab-3e2f2ec51f3e" />
 
