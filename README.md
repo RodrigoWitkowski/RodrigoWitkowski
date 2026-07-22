@@ -45,3 +45,5 @@ An automation experiment that reads and updates GitHub files through scheduled n
 
 `Python` · `FastAPI` · `PostgreSQL` · `JavaScript` · `HTML` · `CSS` · `Docker` · `Git` · `n8n`
 
+![alt text](https://cataas.com/cat/9WFz0kCbRxtVQQOn?position=center)
+[this GIF is Updated when someone creates an issue comment]
