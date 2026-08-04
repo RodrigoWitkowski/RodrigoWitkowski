@@ -2,8 +2,9 @@
 
 I'm a Computer Science student at Universidade Federal do ABC (**UFABC**). 
 
-  <img width="197" height="197" alt="image" src="https://github.com/user-attachments/assets/5dc044d9-4f6e-43a3-b8ab-3e2f2ec51f3e" />
-
+<p align="center">
+  <img src="./ufabc-logo.svg" alt="UFABC logo" width="200">
+</p>
 
 ## What I'm working on
 
