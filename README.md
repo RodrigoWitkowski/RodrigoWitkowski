@@ -48,6 +48,6 @@ An automation experiment that reads and updates GitHub files through scheduled n
 
 
 <!--CAT GIF START-->
-![Daily cat](https://cataas.com/cat/vHWxUr3RH8Gp0bke?position=center)
+![Daily cat](https://cataas.com/cat/kcH2b38F3A5Q8PkC?position=center)
 <!--CAT GIF END-->
 [this GIF is Updated with another random cat GIF every day, see how this works [Here](https://github.com/RodrigoWitkowski/n8n-github-integration)]
